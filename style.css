@@ -253,12 +253,12 @@ div#galleryImages{
 
 
 #contactform{
-    margin-top: 50px;
+    margin-top: 108px;
 }
 #contactbox
 {
    position: relative;
-   margin-top: 10px;
+   margin-top: 56px;
 }
 #contactbox::before{
     content: "";
