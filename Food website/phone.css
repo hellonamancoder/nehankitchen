@@ -1,0 +1,65 @@
+/* Navigation */
+.navbar{
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+    margin-left: 50px;
+}
+
+ul.nav-items li a {
+    text-decoration: none;
+    margin: 0px 10px;
+    padding: 4px 0px;
+    font-size: 1rem;
+    color: white;
+    font-family: 'Acme', sans-serif;
+    
+
+}
+
+/* Home */
+
+#home{
+   height: 560px;
+   margin-left: -2px;
+   padding: 0px 87px;
+   /* overflow: hidden; */
+}
+
+
+#home::before{
+    height: 500px;
+    background-size: cover;
+ }
+
+ #home h1{
+  font-size: 41px ;
+ }
+ #home p{
+  font-size: 20px;
+  /* margin-left: -36px; */
+ }
+
+
+/* Blogs */
+#fooditems{
+  flex-direction: column;
+}
+
+#fooditems .items{
+  /* text-align: center; */
+  margin: 27px 28px;
+}
+
+/* Gallery */
+
+
+/* Contact us */
+
+
+/* Footer */
+
+
+/* Utility classes */
+
+
